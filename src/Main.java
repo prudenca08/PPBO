@@ -4,9 +4,10 @@
  * and open the template in the editor.
  */
 
-/*
-Nama    : Prudenca Ahmad Daffa K.
-NIM : 123190005
+/**
+ *
+ * Nama    : Prudenca Ahmad Daffa K.
+   NIM : 123190005
  */
 import java.util.Scanner;
 
