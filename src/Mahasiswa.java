@@ -6,7 +6,8 @@
 
 /**
  *
- * @author mumta
+ * Nama    : Prudenca Ahmad Daffa K.
+   NIM : 123190005
  */
 public class Mahasiswa {
     String nama,nim;
